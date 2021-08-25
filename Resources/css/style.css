@@ -1,0 +1,28 @@
+*{
+    font-family:Arial, Helvetica, sans-serif;
+}
+.title{
+    background-image: url('/Resources/img/pattern.webp');
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+}
+.sub-header{
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+.brushes-header{
+    background-color: mediumaquamarine;
+}
+.frame-header{
+    background-color: lightcoral;
+}
+.paint-header{
+    background-color: skyblue;
+}
+.prices{
+    font-weight: bold;
+    color: blue;
+}
